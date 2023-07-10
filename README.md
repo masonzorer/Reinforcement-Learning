@@ -1,2 +1,2 @@
-# OpenAI_Gym_RL
-Experimentation with reinforcement learning on OpenAI Gym
+# Reinforcement Learning
+Experimentation with PPO and more on OpenAI Gym
